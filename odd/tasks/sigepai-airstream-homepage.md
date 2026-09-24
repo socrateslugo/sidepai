@@ -27,4 +27,5 @@ Create a polished, responsive landing page for SIGEPAI-IEE Soluciones Académica
 - Implementation: `index.html`, `styles.css`, `script.js`, `README.md`
 - Worker validation: HTML structural validation and `node --check script.js` passed.
 - Follow-up: improved global keyboard focus visibility with paper outline and copper halo in `styles.css`.
-- Verification: delegated structural recheck passed; browser rendering was not available.
+- Follow-up: normalized interface copy to Mexican Spanish (no voseo), changed quote CTAs to `Más información`, linked them to service/contact context, and justified body copy where appropriate.
+- Verification: structural checks, JavaScript syntax, copy assertions, anchor validation, and `git diff --check` passed; browser rendering was not available.
